@@ -8,7 +8,7 @@ This project explores the relationship between Bitcoin market sentiment (Fear & 
 
 By combining sentiment data with trading records, the analysis uncovers how emotions like Fear and Greed impact trading profitability, highlighting hidden patterns that can drive smarter trading strategies.
 
-Datasets Used
+Datasets Used:
 
 Hyperliquid Historical Trader Data:https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
@@ -18,7 +18,7 @@ Bitcoin Fear & Greed Index:https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc
 
 Columns: Date, Value, Classification (Fear/Greed).
 
-Steps in Analysis
+Steps in Analysis:
 
 Data Loading & Cleaning
 
@@ -36,7 +36,7 @@ Sentiment Mapping
 
 Classified sentiment into Fear / Greed buckets.
 
-Analysis & Insights
+Analysis & Insights:
 
 Compared trader performance under Fear vs Greed conditions.
 
@@ -44,11 +44,11 @@ Identified traders who adapt better to each sentiment.
 
 Visualized sentiment impact on closed PnL.
 
-Final Summary
+Final Summary:
 
 Provided actionable insights on how market emotions affect profitability and strategy.
 
-Key Insights
+Key Insights:
 
 Traders show different profitability patterns depending on Fear or Greed market conditions.
 
@@ -56,20 +56,20 @@ Some traders perform better on Fear days, while others succeed in Greed periods.
 
 Market sentiment is a useful signal for risk management and trading strategy optimization.
 
-Enhancement Implemented
+Enhancement Implemented:
 
 Trader Sentiment Responsiveness: Highlighted which traders profit more during Fear vs Greed days.
 
-Visualizations
+Visualizations:
 
 Trader performance comparison under different sentiment conditions.
 
 Charts showing how sentiment buckets influence profitability.
 
-Conclusion
+Conclusion:
 
 This project demonstrates that market sentiment plays a significant role in trading performance. By mapping trades with Fear/Greed data, traders can optimize strategies, improve portfolio allocation, and better manage risks in volatile crypto markets.
 
-Tech Stack
+Tech Stack:
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
